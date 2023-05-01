@@ -29,9 +29,10 @@ You can preview the animation using the BubbleAnimationPreview() composable func
 @Composable
 fun BubbleAnimationPreview() {
     BubbleAnimation(
-        colors = listOf(Color.Yellow, Color.Gray),
-        bubbleCount = 3,
-        offsetX = 800f,
-        offsetY = 400f,
+        listOf(Color.Yellow,Color.Gray),
+        bubbleCount = 13,
+        offsetX = 900f,
+        offsetY = 750f
+    )
 }
 ```
