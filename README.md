@@ -1,4 +1,4 @@
-# Bubble Animation
+# Jetpack Compose Bubble Animation
 This is a Compose-based animation that displays bubbles of different sizes moving around the screen.
 
 
